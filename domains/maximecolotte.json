@@ -4,6 +4,8 @@
     "github": "mcolotte-sudo"
   },
   "claimedAt": "2026-10-10T23:04:55.897Z",
-  "records": {},
+  "records": {
+    "CNAME": "mcolotte-sudo.github.io"
+  },
   "country": "FR"
 }
