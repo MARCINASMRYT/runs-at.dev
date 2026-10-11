@@ -4,13 +4,16 @@
     "github": "The-Dev-Sumit"
   },
   "claimedAt": "2026-10-11T07:58:43.340Z",
-  "records": {
-    "TXT": [
-      "vc-domain-verify=revision-room-tgs.runs-at.dev,135438318d78957a8920"
-    ]
-  },
+  "records": {},
   "country": "IN",
   "profile": {
     "name": "The Great Sumit"
+  },
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=revision-room-tgs.runs-at.dev,135438318d78957a8920"
+      ]
+    }
   }
 }
