@@ -9,5 +9,12 @@
       "76.76.21.21"
     ]
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=lakshyaprajapati.runs-at.dev,3c8bf4d78015b44ee8db"
+      ]
+    }
+  }
 }
