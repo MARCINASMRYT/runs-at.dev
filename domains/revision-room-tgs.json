@@ -4,7 +4,9 @@
     "github": "The-Dev-Sumit"
   },
   "claimedAt": "2026-10-11T07:58:43.340Z",
-  "records": {},
+  "records": {
+    "CNAME": "b25a0441114b18da.vercel-dns-017.com"
+  },
   "country": "IN",
   "profile": {
     "name": "The Great Sumit"
