@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "51b16d6bfa8bcb01.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=shreyaskapse.runs-at.dev,be0e59c7d0c67beeb78b"
-      ]
-    }
-  }
+  "country": "IN"
 }

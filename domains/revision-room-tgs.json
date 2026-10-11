@@ -11,12 +11,5 @@
   "profile": {
     "name": "The Great Sumit",
     "bio": "this is my revision room's domain"
-  },
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=revision-room-tgs.runs-at.dev,135438318d78957a8920"
-      ]
-    }
   }
 }
