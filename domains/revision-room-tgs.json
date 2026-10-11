@@ -9,7 +9,8 @@
   },
   "country": "IN",
   "profile": {
-    "name": "The Great Sumit"
+    "name": "The Great Sumit",
+    "bio": "this is my revision room's domain"
   },
   "subdomains": {
     "_vercel": {
