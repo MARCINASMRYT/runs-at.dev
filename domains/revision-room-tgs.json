@@ -5,7 +5,9 @@
   },
   "claimedAt": "2026-10-11T07:58:43.340Z",
   "records": {
-    "CNAME": "b25a0441114b18da.vercel-dns-017.com"
+    "TXT": [
+      "vc-domain-verify=revision-room-tgs.runs-at.dev,135438318d78957a8920"
+    ]
   },
   "country": "IN",
   "profile": {
