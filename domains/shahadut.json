@@ -4,11 +4,8 @@
     "github": "shahadutx8"
   },
   "claimedAt": "2026-10-12T09:26:24.594Z",
-  "records": {},
-  "country": "BD",
-  "subdomains": {
-    "shahadut": {
-      "CNAME": "fake-profile-generator-tjzn.onrender.com"
-    }
-  }
+  "records": {
+    "CNAME": "fake-profile-generator-tjzn.onrender.com"
+  },
+  "country": "BD"
 }
