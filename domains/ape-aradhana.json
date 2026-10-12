@@ -8,13 +8,6 @@
     "CNAME": "22fadbfaf8a7b97c.vercel-dns-017.com"
   },
   "country": "LK",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=ape-aradhana.runs-at.dev,19edfa954ec1099eba1c"
-      ]
-    }
-  },
   "profile": {
     "name": "Shenil Cooray"
   }
