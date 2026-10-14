@@ -4,6 +4,8 @@
     "github": "Mozzicato"
   },
   "claimedAt": "2026-10-14T11:14:48.519Z",
-  "records": {},
+  "records": {
+    "CNAME": "d0b3ad6679f651c8.vercel-dns-017.com"
+  },
   "country": "NG"
 }
