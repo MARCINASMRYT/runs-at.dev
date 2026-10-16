@@ -4,7 +4,9 @@
     "github": "darkstalkerhansen-jpg"
   },
   "claimedAt": "2026-10-15T23:37:22.138Z",
-  "records": {},
+  "records": {
+    "CNAME": "c6892bb330bf5f23.vercel-dns-017.com"
+  },
   "country": "US",
   "subdomains": {
     "rottenzucchinicore": {
