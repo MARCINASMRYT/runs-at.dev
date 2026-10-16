@@ -5,5 +5,15 @@
   },
   "claimedAt": "2026-10-15T23:37:22.138Z",
   "records": {},
-  "country": "US"
+  "country": "US",
+  "subdomains": {
+    "rottenzucchinicore": {
+      "CNAME": "c6892bb330bf5f23.vercel-dns-017.com"
+    },
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=rottenzucchinicore.runs-at.dev,b78d3ebf38d9c7c85aa5"
+      ]
+    }
+  }
 }
