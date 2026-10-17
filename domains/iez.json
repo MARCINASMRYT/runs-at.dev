@@ -4,6 +4,15 @@
     "github": "iezcorp"
   },
   "claimedAt": "2026-10-17T21:19:44.880Z",
-  "records": {},
-  "country": "US"
+  "records": {
+    "CNAME": "83dba6677d7917a3.vercel-dns-017.com"
+  },
+  "country": "US",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=iez.runs-at.dev,0e1d286e7e2822b27143"
+      ]
+    }
+  }
 }
