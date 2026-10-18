@@ -4,9 +4,8 @@
     "github": "otoojoshua247-sys"
   },
   "claimedAt": "2026-10-18T14:04:08.564Z",
-  "records": {},
-  "country": "DE",
-  "profile": {
-    "name": "Josh"
-  }
+  "records": {
+    "CNAME": "ec6ebfee00518c45.vercel-dns-017.com"
+  },
+  "country": "DE"
 }
