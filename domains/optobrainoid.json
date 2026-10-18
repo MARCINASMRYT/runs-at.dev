@@ -4,6 +4,20 @@
     "github": "ZiadEzzat"
   },
   "claimedAt": "2026-10-18T21:25:11.725Z",
-  "records": {},
-  "country": "EG"
+  "records": {
+    "CNAME": "custom-domains.chatgpt.site"
+  },
+  "country": "EG",
+  "subdomains": {
+    "_openai-site-verification": {
+      "TXT": [
+        "openai-site-verification=m9X1p3ucgGVgJ7p7WE_1xkf9nV7MeC5-c_EiwyB8d3g"
+      ]
+    },
+    "_cf-custom-hostname": {
+      "TXT": [
+        "9dad333a-e353-4e66-b556-12d7854c871b"
+      ]
+    }
+  }
 }
