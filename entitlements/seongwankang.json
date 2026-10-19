@@ -3,9 +3,11 @@
   "included": 1,
   "adminGranted": 0,
   "names": [
-    "hucmockstock2026"
+    "hcumockstock2026"
   ],
-  "pending": {},
+  "pending": {
+    "hcumockstock2026": "2026-10-19T02:03:02.273Z"
+  },
   "pullRequests": {},
   "history": []
 }
