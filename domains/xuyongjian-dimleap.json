@@ -5,5 +5,15 @@
   },
   "claimedAt": "2026-10-19T11:43:05.332Z",
   "records": {},
-  "country": "HK"
+  "country": "HK",
+  "subdomains": {
+    "xuyongjian-dimleap": {
+      "CNAME": "f9e86641a15ca984.vercel-dns-017.com"
+    },
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=xuyongjian-dimleap.runs-at.dev,e3faee98d92ffb9d969b"
+      ]
+    }
+  }
 }
