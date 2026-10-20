@@ -4,9 +4,12 @@
   "adminGranted": 2,
   "names": [
     "preet",
-    "preetmendpara"
+    "preetmendpara",
+    "tezca"
   ],
-  "pending": {},
+  "pending": {
+    "tezca": "2026-10-20T11:38:23.733Z"
+  },
   "pullRequests": {},
   "history": [
     {
