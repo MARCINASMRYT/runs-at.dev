@@ -7,5 +7,8 @@
   "records": {
     "CNAME": "rohanj1922.github.io"
   },
-  "country": "IN"
+  "country": "IN",
+  "profile": {
+    "name": "RohanJ1922"
+  }
 }
