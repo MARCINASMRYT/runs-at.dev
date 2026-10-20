@@ -4,6 +4,15 @@
     "github": "merajsiddieque"
   },
   "claimedAt": "2026-10-20T15:48:31.813Z",
-  "records": {},
-  "country": "IN"
+  "records": {
+    "CNAME": "5ed5d4b84b5bab19.vercel-dns-017.com"
+  },
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=eralam.runs-at.dev,f64c0ffb5d7f6dda03e1"
+      ]
+    }
+  }
 }
