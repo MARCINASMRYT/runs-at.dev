@@ -4,9 +4,12 @@
     "github": "zicciluxe"
   },
   "claimedAt": "2026-10-20T20:16:15.503Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.databosshub.org"
+  },
   "country": "GH",
   "profile": {
+    "name": "zicciLuxe",
     "bio": "\"This life is all about sharing love♥️, it never gets old\""
   }
 }
