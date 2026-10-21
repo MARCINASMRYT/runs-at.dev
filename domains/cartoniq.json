@@ -4,6 +4,8 @@
     "github": "CartonIQ"
   },
   "claimedAt": "2026-10-21T08:20:26.835Z",
-  "records": {},
+  "records": {
+    "CNAME": "cartoniq-website.pages.dev"
+  },
   "country": "IN"
 }
