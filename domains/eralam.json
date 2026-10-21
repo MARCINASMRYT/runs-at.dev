@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "5ed5d4b84b5bab19.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=eralam.runs-at.dev,b9bc3c5f5dea2669dfff"
-      ]
-    }
-  }
+  "country": "IN"
 }
