@@ -4,6 +4,8 @@
     "github": "TheDeveloperSam"
   },
   "claimedAt": "2026-10-21T08:19:14.878Z",
-  "records": {},
+  "records": {
+    "CNAME": "deno.com"
+  },
   "country": "US"
 }
