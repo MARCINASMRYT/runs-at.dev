@@ -4,7 +4,9 @@
     "github": "jastaylor518-gif"
   },
   "claimedAt": "2026-10-20T22:08:44.535Z",
-  "records": {},
+  "records": {
+    "CNAME": "596f40450e881dd1.vercel-dns-017.com"
+  },
   "country": "US",
   "subdomains": {
     "_vercel": {
