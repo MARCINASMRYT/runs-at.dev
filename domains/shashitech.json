@@ -8,6 +8,9 @@
   "country": "IN",
   "subdomains": {
     "shashitech": {
+      "TXT": [
+        "v=spf1 include:spf.improvmx.com ~all"
+      ],
       "MX": [
         {
           "priority": 10,
@@ -17,10 +20,11 @@
           "priority": 20,
           "value": "mx1.improvmx.com"
         }
-      ],
-      "TXT": [
-        "v=spf1 include:spf.improvmx.com ~all"
       ]
     }
+  },
+  "profile": {
+    "name": "Shashi tech",
+    "bio": "Shashitechsupport"
   }
 }
