@@ -4,6 +4,8 @@
     "github": "bhwcommu-eng"
   },
   "claimedAt": "2026-10-22T07:49:23.216Z",
-  "records": {},
+  "records": {
+    "CNAME": "bhwcommu-eng.github.io"
+  },
   "country": "TH"
 }
