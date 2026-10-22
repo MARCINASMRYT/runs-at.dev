@@ -5,5 +5,22 @@
   },
   "claimedAt": "2026-10-22T00:46:58.377Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "shashitech": {
+      "MX": [
+        {
+          "priority": 10,
+          "value": "mx1.improvmx.com"
+        },
+        {
+          "priority": 20,
+          "value": "mx1.improvmx.com"
+        }
+      ],
+      "TXT": [
+        "v=spf1 include:spf.improvmx.com ~all"
+      ]
+    }
+  }
 }
