@@ -4,6 +4,20 @@
     "github": "agenciasevengo-hub"
   },
   "claimedAt": "2026-10-22T15:41:22.016Z",
-  "records": {},
-  "country": "CA"
+  "records": {
+    "CNAME": "custom-domains.chatgpt.site"
+  },
+  "country": "CA",
+  "subdomains": {
+    "_openai-site-verification": {
+      "TXT": [
+        "openai-site-verification=buuLluVw_JFbsSpunGLchGGdvdbemEWTi8kXH4Uqg4c"
+      ]
+    },
+    "_cf-custom-hostname": {
+      "TXT": [
+        "a2aaf93f-652f-43f8-a608-5747c27dfb1b"
+      ]
+    }
+  }
 }
