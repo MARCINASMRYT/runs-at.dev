@@ -5,5 +5,15 @@
   },
   "claimedAt": "2026-10-23T11:42:47.312Z",
   "records": {},
-  "country": "HR"
+  "country": "HR",
+  "subdomains": {
+    "bubi-crypto": {
+      "CNAME": "d4e734e6a5128728.vercel-dns-017.com"
+    },
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=bubi-crypto.runs-at.dev,0b77541c191fa98f2e63"
+      ]
+    }
+  }
 }
