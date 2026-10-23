@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "596f40450e881dd1.vercel-dns-017.com"
   },
-  "country": "US",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=chase-notify.runs-at.dev,b9e98fcc649c884353b2"
-      ]
-    }
-  }
+  "country": "US"
 }

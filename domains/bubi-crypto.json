@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "d4e734e6a5128728.vercel-dns-017.com"
   },
-  "country": "HR",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=bubi-crypto.runs-at.dev,0b77541c191fa98f2e63"
-      ]
-    }
-  }
+  "country": "HR"
 }
