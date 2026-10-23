@@ -4,6 +4,14 @@
     "github": "MARCINASMRYT"
   },
   "claimedAt": "2026-10-22T21:30:14.557Z",
-  "records": {},
+  "records": {
+    "A": [
+      "216.198.79.1",
+      "64.29.17.1"
+    ],
+    "TXT": [
+      "vc-domain-verify=repomindai.runs-at.dev,2d62097577ccf4dd18ab"
+    ]
+  },
   "country": "PL"
 }
