@@ -4,6 +4,8 @@
     "github": "wyshaoku"
   },
   "claimedAt": "2026-10-23T09:22:03.456Z",
-  "records": {},
+  "records": {
+    "CNAME": "tigerpear.wyshaoku.workers.dev"
+  },
   "country": "US"
 }
