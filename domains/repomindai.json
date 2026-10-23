@@ -4,11 +4,13 @@
     "github": "MARCINASMRYT"
   },
   "claimedAt": "2026-10-22T21:30:14.557Z",
-  "records": {
-    "A": [
-      "216.198.79.1",
-      "64.29.17.1"
-    ]
-  },
-  "country": "PL"
+  "records": {},
+  "country": "PL",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=repomindai.runs-at.dev,2d62097577ccf4dd18ab"
+      ]
+    }
+  }
 }
